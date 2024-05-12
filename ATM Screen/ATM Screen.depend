@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1715386883 source:c:\users\user\desktop\atm screen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"menu.h"
+	"withdrawal.h"
+	"deposit.h"
+	"transfer.h"
+	"payment.h"
+
+1715386494 c:\users\user\desktop\atm screen\menu.h
+
+1715386881 c:\users\user\desktop\atm screen\withdrawal.h
+
+1715385978 c:\users\user\desktop\atm screen\deposit.h
+
+1715386879 c:\users\user\desktop\atm screen\transfer.h
+
+1715386878 c:\users\user\desktop\atm screen\payment.h
+
+1715385978 c:\users\user\desktop\atm screen\password.h
+
+1715379283 c:\users\user\desktop\atm screen\balance.h
+
